@@ -37,7 +37,7 @@ Download the dataset:
 python download_data.py
 ```
 
-### Class Distribution
+## Class Distribution
 
 ![Class Distribution](figures/class_distribution.png)
 
