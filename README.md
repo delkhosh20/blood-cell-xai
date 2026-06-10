@@ -23,6 +23,20 @@ The dataset contains over 17,000 microscopy images across eight blood cell class
 - Neutrophil
 - Platelet
 
+## Setup
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Download the dataset:
+
+```bash
+python download_data.py
+```
+
 ### Class Distribution
 
 ![Class Distribution](figures/class_distribution.png)
